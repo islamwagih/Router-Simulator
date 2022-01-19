@@ -1,0 +1,16 @@
+c1 computer arrived 
+connection 1 : c1 computer occupied 
+c2 printer arrived 
+connection 2 : c2 printer occupied 
+c3 mobile arrived 
+connection 3 : c3 mobile occupied 
+c4 tv arrived and waiting 
+c1 performs online activity 
+c3 performs online activity 
+c2 performs online activity 
+c3 mobile Logged out 
+connection 3 : c4 tv occupied 
+c4 performs online activity 
+c2 printer Logged out 
+c1 computer Logged out 
+c4 tv Logged out 
